@@ -1,22 +1,25 @@
 # Full Stack Developer Challenge
 
 ## Credentials
-- Admin
-admin@paypay.com
-Password: admin
+### Admin
+- Email: admin@paypay.com
+- Password: admin
 
-- Employees
-jeff@amazon.com
-Password: test123
+### Employees
+- Email: jeff@amazon.com
+- Password: test123
 
 
-susan@gmail.com
-Password: test123
+- Email: susan@gmail.com
+- Password: test123
 
 
 ## Code repos
 - Frontend: https://github.com/jasonpereira96/frontend-paypay
 - Backend: https://github.com/jasonpereira96/paypay
+
+## Hosted App
+https://frontend-paypay.herokuapp.com/
 
 ## Technologies used
 
